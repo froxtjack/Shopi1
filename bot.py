@@ -26,7 +26,7 @@ import traceback
 warnings.filterwarnings('ignore')
 
 # ================== HARDCODED OWNER ==================
-OWNER_ID = 6117145442,6649267817
+OWNER_ID = 6117145442
 DEFAULT_GROUP_ID = -1003694167299
 FREE_GROUP_ID = -1003694167299          # Members of this group can use the bot for free
 FREE_GROUP_MAX_CARDS = 200              # Mass-check limit for free-group (non-premium) users
